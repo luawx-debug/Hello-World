@@ -3,7 +3,7 @@ background-color: rgb(255, 255, 255);
 color: rgb(0, 0, 0);
 font-family:arial,sans-serif;
 text-align:center;
-border: 8px solid rgb(238, 42, 120);
+border: 10px solid rgb(238, 42, 120);
 }
     ul,ol {
         text-align:left;
