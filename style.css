@@ -1,9 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+
 body {
 background-color: rgb(255, 255, 255);
 color: rgb(0, 0, 0);
 font-family:arial,sans-serif;
 text-align:center;
 border: 10px solid rgb(238, 42, 120);
+margin: 10px;
+padding: 10px;
 }
     ul,ol {
         text-align:left;
