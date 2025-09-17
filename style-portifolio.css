@@ -1,0 +1,68 @@
+<<<<<<< HEAD
+body {
+    text-align: center;
+    background-color: pink;
+    color: aliceblue;
+}
+
+.borda{
+    border: 5px solid rgb(247, 247, 247);
+    margin: 5px;
+    padding: 5px;
+    display: inline-block;
+
+}
+.borda2{
+    text-align: right;
+     border: 5px solid rgb(249, 240, 246);
+    display: inline-block;
+    right:20px;
+}
+.x{
+    text-align: left;
+}
+.img{
+    position:absolute;
+    top: 20px;
+    left: 20px;
+}
+=======
+*{
+    box-sizing: border-box;
+}
+
+body {
+background-color: rgb(255, 255, 255);
+color: rgb(0, 0, 0);
+font-family:arial,sans-serif;
+text-align:center;
+border: 10px solid rgb(238, 42, 120);
+margin: 10px;
+padding: 10px;
+}
+    ul,ol {
+        text-align:left;
+    }
+    a {
+        color:rgb(212, 89, 159);
+    }
+    .gabi {
+        position: absolute;
+        top: 20px;
+        right: 20px;
+    }
+    .sublinhado {
+        text-decoration: underline;
+        text-decoration-color: rgb(223, 61, 131);
+    }
+    .gabi2{
+        position:absolute;
+        top:20px;
+        left: 20px;
+    }
+    .loja-fisica {
+        color: rgb(226, 43, 153);
+        text-decoration: underline;
+        text-decoration-color: rgb(209, 108, 216);
+    }
+>>>>>>> d9edbe1d70a2ddf0fd89c962e31fcc5eff98ef2b
