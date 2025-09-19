@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
     box-sizing: border-box;
 }
@@ -61,3 +62,68 @@ ul,li{
          border: 5px solid rgb(238, 42, 120);
   display: inline-block;
     }
+=======
+*{
+    box-sizing: border-box;
+}
+
+body {
+background-color: rgb(255, 255, 255);
+color: rgb(0, 0, 0);
+font-family:arial,sans-serif;
+text-align:center;
+border: 10px solid rgb(238, 42, 120);
+margin: 10px;
+padding: 10px;
+}
+ul,li::marker{
+    color: yellow;
+}
+ul,li{
+    color: black;
+}
+
+    ul,ol {
+        text-align:left;
+    }
+    a {
+        color:rgb(212, 89, 159);
+    }
+    .gabi {
+        position: absolute;
+        top: 20px;
+        right: 20px;
+    }
+    .sublinhado {
+       text-decoration: underline;
+       text-decoration-style: wavy;
+        text-decoration-color: rgb(223, 61, 131);
+    }
+    .gabi2{
+        position:absolute;
+        top:20px;
+        left: 20px;
+    }
+    .loja-fisica {
+        color: rgb(226, 43, 153);
+        text-decoration: underline;
+        text-decoration-color: rgb(209, 108, 216);
+    }
+    .x{
+        display: flex;
+        gap: 20px;
+    }
+    .happy{
+        color: rgb(226, 221, 221);
+        background-color: rgb(238, 42, 120);
+    }
+    .r{
+        text-align: center;
+        color: white;
+        background-color:rgb(238, 42, 120);
+    }
+    .b{
+         border: 5px solid rgb(238, 42, 120);
+  display: inline-block;
+    }
+>>>>>>> c42e0acd2b7be143c21a8d100907d9c0ff285543
